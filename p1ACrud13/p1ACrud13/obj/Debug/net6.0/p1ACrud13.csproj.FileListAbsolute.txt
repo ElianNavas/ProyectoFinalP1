@@ -1,0 +1,44 @@
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\bin\Debug\net6.0\p1ACrud13.exe
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\bin\Debug\net6.0\p1ACrud13.deps.json
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\bin\Debug\net6.0\p1ACrud13.runtimeconfig.json
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\bin\Debug\net6.0\p1ACrud13.dll
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\bin\Debug\net6.0\p1ACrud13.pdb
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\obj\Debug\net6.0\p1ACrud13.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\obj\Debug\net6.0\p1ACrud13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\obj\Debug\net6.0\p1ACrud13.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\obj\Debug\net6.0\p1ACrud13.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\obj\Debug\net6.0\p1ACrud13.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\obj\Debug\net6.0\p1ACrud13.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\obj\Debug\net6.0\p1ACrud13.dll
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\obj\Debug\net6.0\refint\p1ACrud13.dll
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\obj\Debug\net6.0\p1ACrud13.pdb
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\obj\Debug\net6.0\p1ACrud13.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\labs y pruebas\p1acrud\p1ACrud13\p1ACrud13\obj\Debug\net6.0\ref\p1ACrud13.dll
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\bin\Debug\net6.0\p1ACrud13.exe
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\bin\Debug\net6.0\p1ACrud13.deps.json
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\bin\Debug\net6.0\p1ACrud13.runtimeconfig.json
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\bin\Debug\net6.0\p1ACrud13.dll
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\bin\Debug\net6.0\ref\p1ACrud13.dll
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\bin\Debug\net6.0\p1ACrud13.pdb
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\obj\Debug\net6.0\p1ACrud13.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\obj\Debug\net6.0\p1ACrud13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\obj\Debug\net6.0\p1ACrud13.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\obj\Debug\net6.0\p1ACrud13.AssemblyInfo.cs
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\obj\Debug\net6.0\p1ACrud13.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\obj\Debug\net6.0\p1ACrud13.csproj.CopyComplete
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\obj\Debug\net6.0\p1ACrud13.dll
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\obj\Debug\net6.0\ref\p1ACrud13.dll
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\obj\Debug\net6.0\p1ACrud13.pdb
+C:\Users\alumno\Desktop\p1ACrud13\p1ACrud13\obj\Debug\net6.0\p1ACrud13.genruntimeconfig.cache
